@@ -1,0 +1,53 @@
+[
+    {
+        "id":7,
+        "name":"Data Science Book",
+        "title":"An essential primer on harnessing data to derive insights and make informed decisions in today's digital age.",
+        "price":"500",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720333408~exp=1720337008~hmac=c4e3975adadaa87133475cbaebb835b8650a1876eb6374280327cb331f8715e1&w=740"
+    },
+    
+    {
+        "id":8,
+        "name":"General Studies Book",
+        "title":"Book focusing on interdisciplinary exploration of diverse subjects, offering a broad understanding of key concepts and their societal relevance.",
+        "price":"1000",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720333408~exp=1720337008~hmac=c4e3975adadaa87133475cbaebb835b8650a1876eb6374280327cb331f8715e1&w=740"
+    },
+    {
+        "id":9,
+        "name":"Quantitative Aptitude",
+        "title":"A practical approach to mastering mathematical and analytical skills essential for problem-solving in various fields.",
+        "price":"700",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720333408~exp=1720337008~hmac=c4e3975adadaa87133475cbaebb835b8650a1876eb6374280327cb331f8715e1&w=740"
+    },
+    
+    {
+        "id":10,
+        "name":"General English Book",
+        "title":"A comprehensive guide to improving language proficiency through grammar, vocabulary, and effective communication strategies",
+        "price":"750",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720333408~exp=1720337008~hmac=c4e3975adadaa87133475cbaebb835b8650a1876eb6374280327cb331f8715e1&w=740"
+    },
+    {
+        "id":11,
+        "name":"Frontend Development Book",
+        "title":"A practical guide to mastering HTML, CSS, and JavaScript for creating responsive and engaging user interfaces.",
+        "price":"1250",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720333408~exp=1720337008~hmac=c4e3975adadaa87133475cbaebb835b8650a1876eb6374280327cb331f8715e1&w=740"
+    },
+    
+    {
+        "id":12,
+        "name":"Backend Development Book",
+        "title":"A comprehensive guide to backend development, covering server-side programming languages, databases, and scalable architecture.",
+        "price":"1500",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720333408~exp=1720337008~hmac=c4e3975adadaa87133475cbaebb835b8650a1876eb6374280327cb331f8715e1&w=740"
+    }
+]
